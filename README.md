@@ -1,55 +1,60 @@
 <div align="center">
 
-<!-- <img src="https://i.imgur.com/p7aJwYJ.gif" width="180" /> -->
+# 👋 Hi, I'm Aadi Jain
 
-# 👋 Hey, I'm <strong>Aadi Jain</strong>
+### ☁️ Cloud & DevOps Engineer | 💻 Java Full Stack Developer
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Cloud+Engineer;DevOps+Learner;Tech+Enthusiast;Always+Building+%F0%9F%9A%80" /> -->
-
-<br>
-
-<!-- <img src="https://i.imgur.com/VxQqKcM.gif" width="700" /> -->
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-✨ Passionate **Java Full Stack Developer**  
-☁️ Exploring **Cloud & DevOps (AWS, Docker, K8s)**  
-🔥 Focused on **building scalable, real-world apps**  
-📚 Always learning & leveling up my craft  
-🎯 Mission: *Write clean code, build cool things, and grow every day.*
+- ☁️ Cloud & DevOps focused engineer with hands-on experience in modern tools  
+- ⚙️ Skilled in building and automating deployment workflows (CI/CD, Docker, Kubernetes)  
+- 💻 Strong foundation in Java Full Stack development (Spring Boot + React)  
+- 🔧 Passionate about scalable systems, automation, and efficient infrastructure  
+- 📈 Continuously learning and working on real-world DevOps + Cloud projects  
+- 🎯 Goal: Build reliable systems and grow as a Cloud/DevOps Engineer  
 
 🌐 **Portfolio:** https://aadijain-portfolio.vercel.app/
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,docker,kubernetes,ansible,git,github,mysql,python,c,cpp,postman,vscode&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,terraform,git,github,linux,java,spring,react,js,html,css,tailwind,mysql,c,cpp,postman,vscode" />
+
 </div>
 
 ---
 
-# 📦 What I Work On
+## 💼 What I Do
 
-✨ Full-stack applications  
-🛢️ Backend APIs  
-🚀 Deployment automation  
-♻️ Reusable components  
-📊 System design basics  
-🧩 Solving real-world development challenges  
-
-<!-- <img src="https://i.imgur.com/LdY4NoL.gif" width="700" /> -->
+- ☁️ Cloud deployment & infrastructure basics (AWS)  
+- 🚀 CI/CD pipeline setup and automation  
+- 🐳 Containerization using Docker & orchestration with Kubernetes  
+- 🔌 Backend API development using Spring Boot  
+- 🌐 Full Stack application development (React + Java)  
+- 📊 Basic system design and scalable architecture  
 
 ---
 
-# 📈 GitHub Stats (Clean Version)
+## 📌 Featured Focus
+
+- ☁️ Cloud & DevOps Projects (AWS + CI/CD)  
+- 🚀 Automation & Deployment Pipelines  
+- ⚡ Scalable Backend Systems  
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aadi1903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi1903&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -57,29 +62,7 @@
 
 ---
 
-# 🏆 Highlights & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aadi1903&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# ✨ Developer Inspiration
-
-<div align="center">
-  
-<!-- <img src="https://i.imgur.com/cM3yTGI.gif" width="400" /> -->
-
-### ⭐ **"Great developers are not born — they are built, line by line, bug by bug."**
-
-</div>
-
----
-
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -99,12 +82,8 @@
 
 ---
 
-<br>
-
 <div align="center">
 
-<!-- <img src="https://i.imgur.com/JGxT8vl.gif" width="900" /> -->
-
-### 💙 *Thanks for visiting my profile!*
+### ⚡ "Automate what can be automated. Optimize what must be built."
 
 </div>
